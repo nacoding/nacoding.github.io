@@ -101,15 +101,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "JW"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "노력 없는 **성공**은 없다."
   location         : "Seoul, Republic of Korea"
-  email            :
+  email            : "jwna94@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "jwna94@naver.com"
+      # url: "jwna94@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
